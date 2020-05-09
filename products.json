@@ -1,0 +1,152 @@
+[
+  {
+  "BRAND": "NIKE",
+  "DESCRIPTION": "The Nike Blazer Mid '77 Vintage harnesses the old-school look of Nike Basketball with a vintage midsole finish, making it look like you've been saving them for years.",
+  "PRODUCTNAME": "Nike Blazer Mid '77 Vintage",
+  "GRAPHICNAME": "Blazer Mid '77 Vintage",
+  "COSTPRICE": "100",
+  "MSRP": "135",
+  "QTYONHAND": "5",
+  "QTYONBACKORDER": "4"
+  },
+  {
+  "BRAND": "NIKE",
+  "DESCRIPTION": "Never mistaken, the Nike Air Force 1 LV8 is the hardwood classic that redefined basketball shoes and sneaker culture forever. Suede details atop synthetic leather on the upper deliver the iconic style that landed it at the pinnacle of street, sport and culture for decades.",
+  "PRODUCTNAME": "Nike Air Force 1 LV8",
+  "GRAPHICNAME": "Air Force 1 LV8",
+  "COSTPRICE": "110",
+  "MSRP": "145",
+  "QTYONHAND": "15",
+  "QTYONBACKORDER": "4"
+  },
+  {
+    "BRAND": "NIKE",
+    "DESCRIPTION": "First released in 2003, the Nike Air Zoom Spiridon Cage 2 is as relevant today as it was back in the day. Featuring OG design lines and a caged Zoom Air unit, it gives you a responsive ride with early 2000s style.",
+    "PRODUCTNAME": "Nike Air Zoom Spiridon Cage 2",
+    "GRAPHICNAME": "Air Zoom Spiridon Cage 2",
+    "COSTPRICE": "130",
+    "MSRP": "190",
+    "QTYONHAND": "2",
+    "QTYONBACKORDER": "4"
+  },
+  {
+    "BRAND": "NIKE",
+    "DESCRIPTION": "Shane O'Neill put the same attention to detail into every aspect of his signature shoe as he does in his almost otherworldly skating. From the low-key perforated ventilation at the toe, to the double lacing option and the no-break-in remastered sole, the Nike SB Shane gets all the details right.",
+    "PRODUCTNAME": "Nike SB Shane",
+    "GRAPHICNAME": "SB Shane",
+    "COSTPRICE": "90",
+    "MSRP": "105",
+    "QTYONHAND": "15",
+    "QTYONBACKORDER": "4"
+  },
+  {
+    "BRAND": "NIKE",
+    "DESCRIPTION": "The Air Jordan 1 Mid Shoe is inspired by the first AJ1, offering OG fans a look at how far the Jordan brand has come since 1985.",
+    "PRODUCTNAME": "Air Jordan 1 Mid",
+    "GRAPHICNAME": "Air Jordan 1 Mid",
+    "COSTPRICE": "120",
+    "MSRP": "145",
+    "QTYONHAND": "45",
+    "QTYONBACKORDER": "4"
+  }, 
+  {
+    "BRAND": "ADDIDAS",
+    "DESCRIPTION": "Roll with the classic. Back in the day, Stan Smith won big on the tennis court. Slide into the adidas shoe worthy of his name and you'll win big on the streets. Top to bottom, these shoes capture the essential style of the 1971 original, with a minimalist leather build and clean trim.",
+    "PRODUCTNAME": "Addidas STAN SMITH SHOES",
+    "GRAPHICNAME": "STAN SMITH SHOES",
+    "COSTPRICE": "100",
+    "MSRP": "135",
+    "QTYONHAND": "5",
+    "QTYONBACKORDER": "4"
+    },
+  {
+    "BRAND": "ADDIDAS",
+    "DESCRIPTION": "Where you've been always inspires where you're going. The same is true for the pioneering style of the NMD. They take a page from archive style, then make it their own, borrowing cutting-edge innovations from adidas running designs. The stretchy mesh upper feels as comfortable as socks. A responsive cushioning midsole gives a super-comfy feel. The signature heel pull and EVA midsole plugs make it true to the look of NMD.",
+    "PRODUCTNAME": "Addidas NMD_R1 SHOES",
+    "GRAPHICNAME": "NMD_R1 SHOES",
+    "COSTPRICE": "110",
+    "MSRP": "145",
+    "QTYONHAND": "15",
+    "QTYONBACKORDER": "4"
+  },
+  {
+    "BRAND": "ADDIDAS",
+    "DESCRIPTION": "CLASSIC SHOES IN A MID-CUT SILHOUETTE. More, please. These adidas Pro Model Shoes have all the details you love about the lower version but in a mid-cut silhouette for extra support. The heritage, the shell toe and the bold 3-Stripes: They're all there",
+    "PRODUCTNAME": "Addidas PRO MODEL SHOES",
+    "GRAPHICNAME": "PRO MODEL SHOES",
+    "COSTPRICE": "130",
+    "MSRP": "190",
+    "QTYONHAND": "2",
+    "QTYONBACKORDER": "4"
+  },
+  {
+    "BRAND": "ADDIDAS",
+    "DESCRIPTION": "RESPONSIVE RUNNING SHOES FOR A SMOOTH, ENERGIZED RIDE. Elevate your running experience. These updated adidas Ultraboost shoes deliver heel-to-toe responsive cushioning for the highest level of energy return as you run. With an almost entirely seamless upper to eliminate distractions, you're free to focus on piling up the miles.",
+    "PRODUCTNAME": "Addidas ULTRABOOST SHOES",
+    "GRAPHICNAME": "ULTRABOOST SHOES",
+    "COSTPRICE": "90",
+    "MSRP": "105",
+    "QTYONHAND": "15",
+    "QTYONBACKORDER": "4"
+  },
+  {
+    "BRAND": "ADDIDAS",
+    "DESCRIPTION": "LIGHTWEIGHT RUNNING SHOES MADE FOR THE HEAT. When your running shoes are comfortable everything else falls into place. Feel the speed even in the heat in these adidas running shoes. Ventilation areas in the breathable mesh upper act like open windows to a cool breeze. Cushioning in the midsole is light for explosive speed and responsive for comfort.",
+    "PRODUCTNAME": "Addidas SL20 SUMMER.RDY SHOES",
+    "GRAPHICNAME": "Air SL20 SUMMER.RDY SHOES",
+    "COSTPRICE": "120",
+    "MSRP": "145",
+    "QTYONHAND": "45",
+    "QTYONBACKORDER": "4"
+  }, 
+  {
+    "BRAND": "ASICS",
+    "DESCRIPTION": "Follow in the footsteps of US wrestling star Jordan Burroughs with the JB ELITE™ IV unisex wrestling shoe from ASICS®. Inspired by the World Championship-winning athlete, the footwear is designed to both look good and support you every step of the way as you do battle in the ring.",
+    "PRODUCTNAME": "Asics JB ELITE IV",
+    "GRAPHICNAME": "JB ELITE IV",
+    "COSTPRICE": "100",
+    "MSRP": "135",
+    "QTYONHAND": "5",
+    "QTYONBACKORDER": "4"
+    },
+  {
+    "BRAND": "ASICS",
+    "DESCRIPTION": "Where you've been always inspires where you're going. The same is true for the pioneering style of the NMD. They take a page from archive style, then make it their own, borrowing cutting-edge innovations from adidas running designs. The stretchy mesh upper feels as comfortable as socks. A responsive cushioning midsole gives a super-comfy feel. The signature heel pull and EVA midsole plugs make it true to the look of NMD.",
+    "PRODUCTNAME": "Asics GSM",
+    "GRAPHICNAME": "GSM",
+    "COSTPRICE": "110",
+    "MSRP": "145",
+    "QTYONHAND": "15",
+    "QTYONBACKORDER": "4"
+  },
+  {
+    "BRAND": "ASICS",
+    "DESCRIPTION": "UNISEX MEXICO 66 White",
+    "PRODUCTNAME": "Asics UNISEX MEXICO 66",
+    "GRAPHICNAME": "UNISEX MEXICO 66",
+    "COSTPRICE": "130",
+    "MSRP": "190",
+    "QTYONHAND": "2",
+    "QTYONBACKORDER": "4"
+  },
+  {
+    "BRAND": "ASICS",
+    "DESCRIPTION": "The GEL-CUMULUS™ 22 running shoe is a recommended choice for neutral runners who want a soft, flexible everyday trainer with a great fit. This update features a one-piece upper mesh that's combined with a seamless 3D print construction, which balances support and comfort around the foot — giving you an excellent fit right out of the box.",
+    "PRODUCTNAME": "Asics GEL-CUMULUS 22",
+    "GRAPHICNAME": "GEL-CUMULUS 22",
+    "COSTPRICE": "90",
+    "MSRP": "105",
+    "QTYONHAND": "15",
+    "QTYONBACKORDER": "4"
+  },
+  {
+    "BRAND": "ASICS",
+    "DESCRIPTION": "Redefine your running boundaries with the ROADBLAST™ performance running shoe. Equipped with technical components to deliver a more responsive bounce and lasting comfort, this shoe is a functional accessory to helping you beat your best time.",
+    "PRODUCTNAME": "Asics ROADBLAST",
+    "GRAPHICNAME": "ROADBLAST",
+    "COSTPRICE": "120",
+    "MSRP": "145",
+    "QTYONHAND": "45",
+    "QTYONBACKORDER": "4"
+  }
+]
